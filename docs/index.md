@@ -11,8 +11,7 @@ hide:
 
 <div class="introtext" markdown>
 
-Using the CDA and a harmonized data model developed by the Center for
-Cancer Data Harmonization (CCDH), users can discover, query, retrieve,
+Using the CDA and a harmonized data model developed by the NCI Cancer Research Data Commons (CRDC) Data Harmonization teams, users can discover, query, retrieve,
 and aggregate data according to a variety of search parameters, such as
 participant, sample, tissue, disease, or study.
 
